@@ -28,6 +28,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Nury Mabell Encarnación Vera 
 
 ## INFORMACIÓN ADICIONAL
 
